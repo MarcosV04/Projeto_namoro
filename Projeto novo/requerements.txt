@@ -1,0 +1,5 @@
+requerements
+
+Flask
+Flask-SQLAlchemy
+gunicorn
